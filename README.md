@@ -93,3 +93,5 @@ next.config.js           # Next.js configuration
 
 📃 License
 This project is licensed under the MIT License.
+
+Here is link to see live project  https://chattingapp-own.netlify.app/
